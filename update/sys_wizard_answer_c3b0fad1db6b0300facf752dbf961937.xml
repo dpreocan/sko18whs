@@ -2,11 +2,11 @@
 <record_update table="sys_wizard_answer">
     <sys_wizard_answer action="INSERT_OR_UPDATE">
         <active>true</active>
-        <answer>Investigation Task</answer>
+        <answer>Equipment Incident</answer>
         <button_label/>
         <dependent_value/>
         <element/>
-        <name>Investigation Task</name>
+        <name>Equipment Incident</name>
         <next_question/>
         <order>100</order>
         <payload_name/>
@@ -14,19 +14,19 @@
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-01-08 03:26:19</sys_created_on>
-        <sys_id>419b7855db670300facf752dbf961931</sys_id>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-01-08 11:58:10</sys_created_on>
+        <sys_id>c3b0fad1db6b0300facf752dbf961937</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Investigation Task</sys_name>
+        <sys_name>Equipment Incident</sys_name>
         <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
-        <sys_update_name>sys_wizard_answer_419b7855db670300facf752dbf961931</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-08 03:26:19</sys_updated_on>
+        <sys_update_name>sys_wizard_answer_c3b0fad1db6b0300facf752dbf961937</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-01-08 11:58:10</sys_updated_on>
         <table/>
-        <target_url>x_snc_workplace_he_investigation_task.do</target_url>
+        <target_url>x_snc_workplace_he_equipment_incident.do</target_url>
         <type>1</type>
     </sys_wizard_answer>
 </record_update>
