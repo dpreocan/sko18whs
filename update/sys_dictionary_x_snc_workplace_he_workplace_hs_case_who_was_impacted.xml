@@ -49,7 +49,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>dragan</sys_created_by>
         <sys_created_on>2018-01-07 22:59:52</sys_created_on>
-        <sys_id>f7b1e0eddbaf0300facf752dbf9619e9</sys_id>
+        <sys_id>8c2501e5db234300facf752dbf961999</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Who was impacted?</sys_name>
         <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
@@ -57,7 +57,7 @@
         <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_workplace_he_workplace_hs_case_who_was_impacted</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-01-08 20:11:58</sys_updated_on>
+        <sys_updated_on>2018-01-08 22:46:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

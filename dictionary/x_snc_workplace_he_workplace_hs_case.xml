@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="x_snc_workplace_he_case_base" label="Workplace HS Case" max_length="40" name="x_snc_workplace_he_workplace_hs_case" type="collection">
+    <element audit="true" extends="x_snc_workplace_he_case_base" label="Workplace HS Case" max_length="40" name="x_snc_workplace_he_workplace_hs_case" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Case classification" max_length="40" name="case_classification" type="string">
             <choice>
                 <element label="At work incident" sequence="0" value="At work incident"/>
