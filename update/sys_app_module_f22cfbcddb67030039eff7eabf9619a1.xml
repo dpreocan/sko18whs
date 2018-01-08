@@ -20,6 +20,8 @@
         <query/>
         <report/>
         <roles>whs_usrs</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>dragan</sys_created_by>
         <sys_created_on>2018-01-07 22:49:15</sys_created_on>

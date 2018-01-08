@@ -14,17 +14,17 @@
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
-        <sys_created_by>dragan</sys_created_by>
-        <sys_created_on>2018-01-07 22:46:29</sys_created_on>
-        <sys_id>4e8bb7cddb67030039eff7eabf961917</sys_id>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-01-08 13:51:27</sys_created_on>
+        <sys_id>daaacb11dbeb0300facf752dbf961978</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Equipment Incident</sys_name>
         <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
-        <sys_update_name>sys_wizard_answer_4e8bb7cddb67030039eff7eabf961917</sys_update_name>
-        <sys_updated_by>dragan</sys_updated_by>
-        <sys_updated_on>2018-01-07 22:46:29</sys_updated_on>
+        <sys_update_name>sys_wizard_answer_daaacb11dbeb0300facf752dbf961978</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-01-08 13:51:27</sys_updated_on>
         <table/>
         <target_url>x_snc_workplace_he_equipment_incident.do</target_url>
         <type>1</type>
