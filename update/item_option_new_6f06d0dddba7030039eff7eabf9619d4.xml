@@ -54,16 +54,17 @@
         <scale_min>0</scale_min>
         <show_help>false</show_help>
         <show_help_on_load>false</show_help_on_load>
-        <sp_widget/>
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>dragan</sys_created_by>
         <sys_created_on>2018-01-08 00:43:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6f06d0dddba7030039eff7eabf9619d4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Was any equipment damaged?</sys_name>
         <sys_package display_value="Workplace Health and Safety" source="x_snc_workplace_he">ab8abb4ddb67030039eff7eabf96192a</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Workplace Health and Safety">ab8abb4ddb67030039eff7eabf96192a</sys_scope>
         <sys_update_name>item_option_new_6f06d0dddba7030039eff7eabf9619d4</sys_update_name>
         <sys_updated_by>dragan</sys_updated_by>
